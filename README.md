@@ -1,4 +1,4 @@
-# js-requests-practice
+# js-request-practice
 
 자바스크립트로 리퀘스트 보내기 실습 레포입니다.
 
@@ -8,8 +8,8 @@
 2. 레포를 내려받고 VS Code로 엽니다.
 
 ```bash
-git clone https://github.com/seoyong-lee/js-requests-practice.git
-cd js-requests-practice
+git clone https://github.com/seoyong-lee/js-request-practice.git
+cd js-request-practice
 npm install   # 2_axios 실습에 쓰는 axios를 설치합니다
 code .
 ```

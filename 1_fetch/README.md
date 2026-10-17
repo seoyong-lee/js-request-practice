@@ -7,11 +7,11 @@ Avatar API(https://learn.codeit.kr/api/avatars)에 GET · POST · PATCH · DELET
 
 | 구분 | 폴더 | 내용 | 권장 시간 |
 |---|---|---|---|
-| 수업 실습 | `step1_get-avatars` | [실습-1] 아바타 정보 가져오기 | 12분 |
-| 수업 실습 | `step2_create-avatar` | [실습-2] 아바타 생성하기 | 12분 |
+| 수업 실습 | `step1_get-avatars` | [실습-1] 아바타 정보 가져오기 | 15분 |
+| 수업 실습 | `step2_create-avatar` | [실습-2] 아바타 생성하기 | 15분 |
 | 수업 실습 | `step3_patch-delete` | [실습-3] 아바타 수정, 삭제하기 | 16분 |
 | 수업 실습 | `step4_error-message` | [실습-4] API 오류 메시지 보여주기 | 14분 |
-| 도전 | `step5_avatar-stats` | 도전 · 모든 아바타 모아서 머리 색깔 세기 | 25분 |
+| 도전 | `step5_avatar-stats` | 도전 · 모든 아바타 모아서 머리 색깔 세기 | 30분 |
 
 ## [실습-1] 아바타 정보 가져오기
 

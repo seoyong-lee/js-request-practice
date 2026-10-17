@@ -8,7 +8,7 @@ fetch로 만든 API 함수를 axios로 바꾸고 axios 오류 객체를 다룹�
 | 구분 | 폴더 | 내용 | 권장 시간 |
 |---|---|---|---|
 | 수업 실습 | `step1_axios-api` | [실습-5] axios 문법 익히기 | 24분 |
-| 수업 실습 | `step2_axios-error` | [실습-6] axios 오류 처리하기 | 12분 |
+| 수업 실습 | `step2_axios-error` | [실습-6] axios 오류 처리하기 | 14분 |
 | 도전 | `step3_mbti-colors` | 도전 · MBTI별 좋아하는 색 모아 보기 | 15분 |
 
 ## [실습-5] axios 문법 익히기
